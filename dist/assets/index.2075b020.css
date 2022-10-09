@@ -1,0 +1,1 @@
+:root{--primary-color: blue;--primary-color-text: #eee;--radius: 4px}button[type=primary]{background:var(--primary-color);border:none;outline:none;border-radius:var(--radius);padding:10px 14px;color:var(--primary-color-text);font-size:16px}
